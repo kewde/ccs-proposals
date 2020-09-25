@@ -16,3 +16,4 @@ payouts:
 Test proposal :)
 Updated
 Test cronjob
+Test server
